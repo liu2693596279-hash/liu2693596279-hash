@@ -7,10 +7,10 @@
 我是 Liu，一名热衷于技术的产品经理。
 我不只写 PRD，我也正在使用 **Cursor + Next.js** 构建自己的数字产品。我相信 AI 正在重塑软件开发的未来，而我正在通过实践来掌握这股力量。
 
-- 🔭 I’m currently working on **[我的个人作品集网站](https://你的域名.com)**
+- 🔭 I’m currently working on **[我的个人作品集网站](https://guoqingliu.me)**
 - 🌱 I’m currently learning **Next.js, React & System Design**
 - 💬 Ask me about **Product Strategy, AI Workflows, SaaS Architecture**
-- 📫 How to reach me: **[你的邮箱@gmail.com]**
+- 📫 How to reach me: **[liu2693596279@gmail.com]**
 
 ---
 
